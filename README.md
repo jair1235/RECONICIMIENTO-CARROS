@@ -20,4 +20,7 @@ referencias:
 # Andrew Sobral, Vehicle Detection using Haar Cascades
 # https://github.com/andrewssobral/vehicle_detection_haarcascades
 
+<img width="1519" height="335" alt="image" src="https://github.com/user-attachments/assets/bda2eed7-4544-434c-9e91-cbbb8f2d1f14" />
+
+<img width="1005" height="708" alt="image" src="https://github.com/user-attachments/assets/3740a5ef-9990-440f-bf47-c4c9fbedc4b2" />
 
